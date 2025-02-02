@@ -1,0 +1,10 @@
+Alvaro,C/Alcala 57,iphone11,3,18,11,2021,12:27
+uriarte,C/Alcala 57,roomba,5,18,11,2021,12:27
+jose,C/Alcala 57,reloj,8,18,11,2021,12:27
+pepe,C/Alcala 57,reloj,8,18,11,2021,12:27
+fer,C/Alcala 57,reloj,8,18,11,2021,12:27
+adri,C/Alcala 57,reloj,8,18,11,2021,12:27
+carlos,C/Alcala 57,reloj,8,18,11,2021,12:27
+telmo,C/Alcala 57,reloj,8,18,11,2021,12:27
+Alvaro,C/mayor 56,iphone11,2,18,11,2021,13:11
+Alvaro,C/mayor 56,iphone11,2,18,11,2021,13:11
